@@ -1,7 +1,5 @@
 # Wedding RSVP App
 
-DATA NEEDS??
-
 ## TABLES
 
 PK = Primary Key  
@@ -34,3 +32,4 @@ FK = Foreign Key
 ![alt text](./resources/ER_Diagram_IMG.PNG)
 
 ## mysql initialize file
+Linked is the mysql workbench commands [sql_file](./resources/initialize.sql) to initialize your data base with the tables and feilds needed to start buildiong the project.  
